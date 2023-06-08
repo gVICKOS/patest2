@@ -1,5 +1,5 @@
 import streamlit as st 
-import math
+#import math
 import pickle
 st.write('hello world') 
 file_pi2= open('piii','rb')
